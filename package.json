@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "homepage": "http://Mazen-Hossny-Ahmed.github.io/Dashboard",
+    "homepage": "https://github.com/mazen41/Dashboard.git",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.11.0",
